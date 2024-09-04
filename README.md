@@ -43,8 +43,6 @@ Use the move_files.sh script to move all CSV and JSON files to the json_and_CSV 
 
 Execute SQL Queries:
 Use the provided SQL queries to analyze data in the PostgreSQL database.
+![image](https://github.com/user-attachments/assets/7601cf56-9341-462b-8385-ae442bde4f75)
 
 
-![alt text](<ETL Architecture-1.png>)
-
-![alt text](image.png)
